@@ -1,0 +1,21 @@
+*{
+  
+}
+
+.addemploye{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 12rem;
+    height: 2.5rem;
+    background-color: #03C988;
+    cursor: pointer;
+    border: 0.5px;
+    border-color: #03C988 ;
+}
+
+.textadd{
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}

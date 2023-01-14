@@ -1,0 +1,22 @@
+.delete{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(212, 29, 29);
+    width: 8rem;
+    height: 2.5rem;
+    cursor: pointer;
+    border: 0.5px;
+    border-color: rgb(212, 29, 29);
+}
+
+.icon-minus{
+ margin: 0.5rem;
+}
+
+.text p{
+color: white;
+font-family: 'Poppins', sans-serif;
+}
+
